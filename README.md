@@ -27,7 +27,7 @@ The website was built without JavaScript, focusing purely on clean semantic HTML
 - GitHub Pages 
 
 ## Live Website
-https://username.github.io/project-name/
+https://jomandab3-design.github.io/GlossedByJ/
 
 ## Screenshots
 ![Homepage](Images/homepage.png)
