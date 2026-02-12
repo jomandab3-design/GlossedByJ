@@ -30,7 +30,7 @@ The website was built without JavaScript, focusing purely on clean semantic HTML
 https://jomandab3-design.github.io/GlossedByJ/
 
 ## Screenshots
-![Homepage](Images/homepage.png.png)
+![Homepage](Images/homepage.png)
 
 ## Author
 Jomanda Baptiste – CST0400 – 2025/26
